@@ -6,4 +6,4 @@ specialized in Distributed Systems & Java Infrastructure.
 I build and study resilient systems that balance observability, data flow, and performance.
 
 📍 Dual citizenship: Brazilian and Italian — eligible to work across the EU  
-🔗 [LinkedIn](https://www.linkedin.com/in/adenauergabriel/) | [AG Ping (Play Store)](https://play.google.com/store/apps/details?id=ag.ping)
+🔗 [LinkedIn](https://www.linkedin.com/in/adenauer-gabriel/) | [AG Ping (Play Store)](https://play.google.com/store/apps/details?id=ag.ping)
